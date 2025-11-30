@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/dundunfu-github-blue?logo=github)](https://github.com/dundunfu)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+正在长春五十二中赫行实验学校为初中毕业证而努力奋斗  
 
 #### Email  
 <code>XX@XX.XX</code>  
