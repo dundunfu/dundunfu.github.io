@@ -1,3 +1,7 @@
-- 校级一等奖学金, 2022.  
+- CSP2024 普及组 初赛 二等奖  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- CSP2024 提高组 初赛 三等奖  
+
+- CSP2025 普及组 初赛 二等奖  
+
+- CSP2025 普及组 复赛 二等奖  
